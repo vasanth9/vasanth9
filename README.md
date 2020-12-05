@@ -87,14 +87,9 @@
 ### Dice demo
 <img src="images/flutter/dicee-demo.gif" style="width:100%;height:600px" >
 </div>
-<div class="column">
-
-### Xylophone
-
-<img src="images/flutter/xylophone-flutter.png" style="width:100%;height:600px;" >
 </div>
-</div>
-<br/>
+
+
 
 ## currently working on Pomodoro App 
 
