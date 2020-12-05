@@ -1,36 +1,7 @@
 ### Hi there 👋
 ## I am Vasanth Kumar cheepurupalli
 
-# React apps
-<style>
-.row {
-  display: flex;
-}
 
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
-</style>
-<div class="row">
-<div class ="column">
-
-### Flames
-<img src="images/flames.png" style="width:100%;">
-</div>
-<div class="column">
-
-### decide anything
-<img src="images/decide1.png" style="width:100%;" >
-</div>
-<div class="column">
-
-### 2
-
-<img src="images/decide2.png" style="width:100%;" >
-</div>
-</div>
-<br/>
 
 # Florin Pop youtube project
 
@@ -124,7 +95,36 @@
 
 <img src="images/youtube.png">
 
+# React apps
+<style>
+.row {
+  display: flex;
+}
 
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+</style>
+<div class="row">
+<div class ="column">
+
+### Flames
+<img src="images/flames.png" style="width:100%;">
+</div>
+<div class="column">
+
+### decide anything
+<img src="images/decide1.png" style="width:100%;" >
+</div>
+<div class="column">
+
+### 2
+
+<img src="images/decide2.png" style="width:100%;" >
+</div>
+</div>
+<br/>
 
 
 
