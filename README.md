@@ -1,7 +1,16 @@
 ### Hi there 👋
 ## I am Vasanth Kumar cheepurupalli
 
+<style>
+.row {
+  display: flex;
+}
 
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+</style>
 
 # Florin Pop youtube project
 
@@ -96,16 +105,7 @@
 <img src="images/youtube.png">
 
 # React apps
-<style>
-.row {
-  display: flex;
-}
 
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
-</style>
 <div class="row">
 <div class ="column">
 
