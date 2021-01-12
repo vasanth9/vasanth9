@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I am Vasanth Kumar cheepurupalli
-
+<!---
 <style>
 .row {
   display: flex;
@@ -121,7 +121,7 @@
 </div>
 <br/>
 
-
+--->
 
 
 
