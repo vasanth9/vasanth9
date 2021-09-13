@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am Vasanth Kumar cheepurupalli
+## I am Vasanth Kumar Cheepurupalli
 <!---
 <style>
 .row {
