@@ -1,127 +1,50 @@
-### Hi there 👋
-## I am Vasanth Kumar Cheepurupalli
-<!---
-<style>
-.row {
-  display: flex;
-}
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vasanth Kumar Cheepurupallli
+====================================================================================================================================================
 
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
-</style>
+Web Developer
+-------------
 
-# Florin Pop youtube project
+* 🌍  I'm based in visakhapatnam
+* ✉️  You can contact me at [cheepurupalli.vasanthkumar@gmail.com](mailto:cheepurupalli.vasanthkumar@gmail.com)
+* 🧠  I'm learning React and Flutter
+* 🤝  I'm open to collaborating on anything interesting
+* ⚡  I love reading books and watching movies
 
-<div class="row">
-<div class ="column">
-
-### index
-<img src="images/10p/main.png" style="width:100%;">
-</div>
-<div class="column">
-
-### Github Profile
-<img src="images/10p/gitprofile.png" style="width:100%;" >
-</div>
-<div class="column">
-
-### Movies Search
-
-<img src="images/10p/movies.jpg" style="width:100%;" >
-</div>
-</div>
-<br/>
-<div class="row">
-<div class ="column">
-
-### Notes
-<img src="images/10p/notes.png" style="width:100%;">
-</div>
-<div class="column">
-
-### Quiz
-<img src="images/10p/quiz.png" style="width:100%;" >
-</div>
-<div class="column">
-
-### Recipe Search
-
-<img src="images/10p/recipes.png" style="width:100%;" >
-</div>
-</div>
-<br/>
-<div class="row">
-<div class ="column">
-
-### Timer
-<img src="images/10p/timer.jpg" style="width:100%;">
-</div>
-<div class="column">
-
-### Todos
-<img src="images/10p/todos.png" style="width:100%;" >
-</div>
-<div class="column">
-
-### Heart Rain
-
-<img src="images/heartrain.png" style="width:100%;" >
-</div>
-</div>
-<br/>
+### Skills
 
 
-
-# Flutter 
-<div class="row">
-<div class ="column">
-
-### 8 ball
-
-<img src="images/flutter/8-ball-flutter-gif.gif" style="width:100%;height:600px">
-</div>
-<div class="column">
-
-### Dice demo
-<img src="images/flutter/dicee-demo.gif" style="width:100%;height:600px" >
-</div>
-</div>
-
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
 
-## currently working on Pomodoro App 
+### Socials
 
-<img src="images/pomodoro.png">
+<p align="left"> <a href="https://www.github.com/vasanth9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/vasanth9110" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-## subscribe to my Youtube Channel
+### Badges
 
-<img src="images/youtube.png">
+<b>My GitHub Stats</b>
 
-# React apps
+<a href="http://www.github.com/vasanth9"><img src="https://github-readme-stats.vercel.app/api?username=vasanth9&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=10b981&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="vasanth9's GitHub stats" /></a>
 
-<div class="row">
-<div class ="column">
+<a href="http://www.github.com/vasanth9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vasanth9&stroke=10b981&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=10b981&currStreakLabel=84cc16&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
 
-### Flames
-<img src="images/flames.png" style="width:100%;">
-</div>
-<div class="column">
+<a href="http://www.github.com/vasanth9"><img src="https://activity-graph.herokuapp.com/graph?username=vasanth9&bg_color=1c1917&color=10b981&line=22c55e&point=10b981&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-### decide anything
-<img src="images/decide1.png" style="width:100%;" >
-</div>
-<div class="column">
+<a href="https://github.com/vasanth9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanth9&langs_count=10&title_color=84cc16&text_color=10b981&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### 2
+### Support Me
 
-<img src="images/decide2.png" style="width:100%;" >
-</div>
-</div>
-<br/>
-
---->
-
-
-
+<a href="https://www.buymeacoffee.com/CodingQueue"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
