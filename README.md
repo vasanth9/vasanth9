@@ -7,3 +7,9 @@ This is a repo of odds and ends, such as:
 - [contact](./contact): My social links.
 - [dsa](./dsa): Upskilling my DSA skills.
 - [docs](./docs): My website.
+
+### Currently having fun with:
+
+- [Learnig Flutter](https://github.com/vasanth9/learning_flutter)
+- [dsa](./dsa)
+
