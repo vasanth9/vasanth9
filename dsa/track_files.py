@@ -24,7 +24,7 @@ def rip_the_hyphen(file):
 		if extension[1] in file_extensions:
 			extracted_data = extract_data(file)
 			y = extension[0].split("-")
-			return [' '.join(y[:-1]),y[-1],extracted_data]
+			return [' '.join(y[:-1]),y[-1],extracted_data,extension[1]]
 			
 	
 	return ""
@@ -33,14 +33,14 @@ def rip_the_hyphen(file):
 def write_to_md(data):
 	f = open("README.md","w")
 	f.write("# dsa\n\n")
-	f.write("|S.No| Problem | Website | Difficulty | Concept |\n")
-	f.write("| ----------- | ----------- | ----------- | ----------- | ----------- |\n")
+	f.write("|S.No| Problem | Website | Difficulty | Concept |Solved In|\n")
+	f.write("| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |\n")
 	index = 0
 	for d in data:
 		if len(d) > 2 :
 			if len(d[2])>0:
 				index+=1
-				f.write("| {} | [{}]({}) | {} | {} |{}|\n".format(index,d[0],d[2][0],d[1],d[2][1],d[2][2]))
+				f.write("| {} | [{}]({}) | {} | {} |{}|{}|\n".format(index,d[0],d[2][0],d[1],d[2][1],d[2][2],d[3]))
 			
 		
 	f.close()
