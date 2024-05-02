@@ -1,1 +1,3 @@
 # scratchpad
+
+- [scripts](./scripts)
