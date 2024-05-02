@@ -1,6 +1,6 @@
 // link : https://leetcode.com/problems/container-with-most-water/
 // type : MEDIUM
-// concept: Array,Two Pointers
+// concept : Array,Two Pointers
 /*
 	notes:
 		min(a,b) => givies minimum

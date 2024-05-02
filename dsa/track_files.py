@@ -37,6 +37,7 @@ def write_to_md(data):
 	f.write("| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |\n")
 	index = 0
 	for d in data:
+		print(d)
 		if len(d) > 2 :
 			if len(d[2])>0:
 				index+=1
