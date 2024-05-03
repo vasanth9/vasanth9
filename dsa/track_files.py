@@ -1,4 +1,4 @@
-import os
+import os, time
 
 file_extensions = ['cpp','py']
 
@@ -20,11 +20,12 @@ def extract_data(file):
 
 def rip_the_hyphen(file):
 	extension = file.split(".")
+	fileCreated=time.ctime(os.path.getctime(file))
 	if len(extension) > 1:
 		if extension[1] in file_extensions:
 			extracted_data = extract_data(file)
 			y = extension[0].split("-")
-			return [' '.join(y[:-1]),y[-1],extracted_data,extension[1]]
+			return [' '.join(y[:-1]),y[-1],extracted_data,extension[1],fileCreated]
 			
 	
 	return ""
@@ -33,8 +34,8 @@ def rip_the_hyphen(file):
 def write_to_md(data):
 	f = open("README.md","w")
 	f.write("# dsa\n\n")
-	f.write("|S.No| Problem | Website | Difficulty | Concept |Solved In|\n")
-	f.write("| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |\n")
+	f.write("|S.No| Date | Problem | Website | Difficulty | Concept |Solved In|\n")
+	f.write("| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |\n")
 	index = 0
 	easy = 0
 	medium = 0
@@ -42,10 +43,10 @@ def write_to_md(data):
 	total = 1
 	for d in data:
 		print(d)
-		if len(d) > 2 :
+		if len(d) > 4 :
 			if len(d[2])>0:
 				index+=1
-				f.write("| {} | [{}]({}) | {} | {} |{}|{}|\n".format(index,d[0],d[2][0],d[1],d[2][1],d[2][2],d[3]))
+				f.write("| {} |{} | [{}]({}) | {} | {} |{}|{}|\n".format(index,d[-1],d[0],d[2][0],d[1],d[2][1],d[2][2],d[3]))
 				if "EASY" in d[2][1]:
 					easy += 1
 				elif "MEDIUM" in d[2][1]:
