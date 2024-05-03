@@ -55,9 +55,9 @@ def write_to_md(data):
 	total = easy+medium+hard
 	f.write("\n")
 	f.write("\n")
-	f.write("https://progress-bar.dev/{}/?title=easy\n".format((easy*100)//total))
-	f.write("https://progress-bar.dev/{}/?title=medium\n".format((medium*100)//total))
-	f.write("https://progress-bar.dev/{}/?title=hard\n".format((hard*100)//total))
+	f.write("![Progress](https://progress-bar.dev/{}/?title=easy)\n".format((easy*100)//total))
+	f.write("![Progress](https://progress-bar.dev/{}/?title=medium)\n".format((medium*100)//total))
+	f.write("![Progress](https://progress-bar.dev/{}/?title=hard)\n".format((hard*100)//total))
 	f.close()
 
 # List all files in the current directory
