@@ -36,14 +36,28 @@ def write_to_md(data):
 	f.write("|S.No| Problem | Website | Difficulty | Concept |Solved In|\n")
 	f.write("| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |\n")
 	index = 0
+	easy = 0
+	medium = 0
+	hard = 0
+	total = 1
 	for d in data:
 		print(d)
 		if len(d) > 2 :
 			if len(d[2])>0:
 				index+=1
 				f.write("| {} | [{}]({}) | {} | {} |{}|{}|\n".format(index,d[0],d[2][0],d[1],d[2][1],d[2][2],d[3]))
-			
-		
+				if "EASY" in d[2][1]:
+					easy += 1
+				elif "MEDIUM" in d[2][1]:
+					medium += 1
+				elif "HARD" in d[2][1]:
+					hard += 1  
+	total = easy+medium+hard
+	f.write("\n")
+	f.write("\n")
+	f.write("https://progress-bar.dev/{}/?title=easy\n".format((easy*100)//total))
+	f.write("https://progress-bar.dev/{}/?title=medium\n".format((medium*100)//total))
+	f.write("https://progress-bar.dev/{}/?title=hard\n".format((hard*100)//total))
 	f.close()
 
 # List all files in the current directory

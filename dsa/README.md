@@ -8,3 +8,8 @@
 | 4 | [reverse a string](https://www.geeksforgeeks.org/problems/reverse-a-string/1) | gfg | EASY | String, Array|cpp|
 | 5 | [missing number in array1416](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | gfg | EASY | Array, Sum of N natural numbers|cpp|
 | 6 | [container with most water](https://leetcode.com/problems/container-with-most-water/) | leetcode | MEDIUM | Array,Two Pointers|cpp|
+
+
+https://progress-bar.dev/66/?title=easy
+https://progress-bar.dev/33/?title=medium
+https://progress-bar.dev/0/?title=hard
