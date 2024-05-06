@@ -14,8 +14,9 @@
 | 10 |Thu May  2 22:23:07 2024 | [container with most water](https://leetcode.com/problems/container-with-most-water/) | leetcode | MEDIUM | Array,Two Pointers|cpp|
 | 11 |Sun May  5 11:50:31 2024 | [delete node in a linked list](https://leetcode.com/problems/delete-node-in-a-linked-list/) | leetcode | MEDIUM | Linked List|cpp|
 | 12 |Mon May  6 21:13:52 2024 | [Search an element in an array](https://www.codechef.com/practice/course/arrays/ARRAYS/problems/SEARCHINARR) | codechef | EASY | Array|cpp|
+| 13 |Mon May  6 22:54:51 2024 | [MIN To MAX](https://www.codechef.com/practice/course/arrays/ARRAYS/problems/OPMIN) | codechef | EASY | Array|cpp|
 
 
-![Progress](https://progress-bar.dev/66/?title=easy)
-![Progress](https://progress-bar.dev/33/?title=medium)
+![Progress](https://progress-bar.dev/69/?title=easy)
+![Progress](https://progress-bar.dev/30/?title=medium)
 ![Progress](https://progress-bar.dev/0/?title=hard)
