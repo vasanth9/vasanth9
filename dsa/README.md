@@ -18,8 +18,9 @@
 | 14 |Sun May  5 11:50:31 2024 | [delete node in a linked list](https://leetcode.com/problems/delete-node-in-a-linked-list/) | leetcode | MEDIUM | Linked List|cpp|
 | 15 |Mon May  6 21:13:52 2024 | [Search an element in an array](https://www.codechef.com/practice/course/arrays/ARRAYS/problems/SEARCHINARR) | codechef | EASY | Array|cpp|
 | 16 |Mon May  6 22:54:51 2024 | [MIN To MAX](https://www.codechef.com/practice/course/arrays/ARRAYS/problems/OPMIN) | codechef | EASY | Array|cpp|
+| 17 |Wed May  8 10:25:17 2024 | [relative ranks](https://leetcode.com/problems/relative-ranks/) | leetcode | EASY | Array, Sorting|cpp|
 
 
-![Progress](https://progress-bar.dev/62/?title=easy)
-![Progress](https://progress-bar.dev/37/?title=medium)
+![Progress](https://progress-bar.dev/64/?title=easy)
+![Progress](https://progress-bar.dev/35/?title=medium)
 ![Progress](https://progress-bar.dev/0/?title=hard)
