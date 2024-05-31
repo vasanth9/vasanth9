@@ -1,0 +1,29 @@
+#image {
+	text-align: center;
+}
+
+#root {
+	display: flex;
+    	flex-direction: column;
+    	justify-content: center;
+	width: 80vw;
+	margin: auto;
+}
+
+#rateLimit {
+	text-align: right;
+}
+
+#videoSource {
+	width: 80vw;
+	aspect-ratio: 16/9;
+}
+
+#copyRight {
+	text-align: left;
+}
+
+#description {
+	width: 80vw;
+	line-height: 24px;
+}
